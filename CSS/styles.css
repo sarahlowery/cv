@@ -1,0 +1,15 @@
+body {
+  background-color: #f6f6f6;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-color: #c7ffd8;
+  border-width: 5px;
+}
+
+h1{color: #161d6f;
+  font-family: 'Brush Script MT', cursive;
+}
+h3{color:#98ded9}
